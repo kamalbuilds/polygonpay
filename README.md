@@ -1,7 +1,5 @@
 # PolygonPay - Stablecoin Payments for Dubai Merchants
 
-> Built for the Hadron Payments & RWA Accelerator - Dubai 2025
-
 ## 🚀 Overview
 
 PolygonPay is a revolutionary payment infrastructure that enables Dubai SMBs to accept stablecoin payments (USDC/USDT) with **instant settlement**, **0.4% fees**, and **zero crypto knowledge required**.
@@ -66,7 +64,7 @@ PolygonPay/
 
 ```bash
 # Clone the repository
-git clone https://github.com/polygonpay/app.git
+git clone https://github.com/kamalbuilds/polygonpay
 cd polygonpay
 
 # Install dependencies
@@ -224,29 +222,15 @@ NEXT_PUBLIC_FEE_MANAGER_ADDRESS=0x...
 - [Testing Strategy](docs/testing/test-strategy.md)
 - [Deployment Guide](docs/deployment/guide.md)
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md).
-
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE)
 
 ## 🙏 Acknowledgments
-
-- **Hadron Accelerator** - Dubai 2025 cohort support
 - **Polygon Labs** - Infrastructure and technical guidance
 - **Circle** - USDC stablecoin infrastructure
 - **WalletConnect** - Wallet connectivity protocol
 - **Biconomy** - Account Abstraction SDK
-
-## 📞 Contact
-
-- **Website**: https://polygonpay.io
-- **Email**: hello@polygonpay.io
-- **Twitter**: @PolygonPayDubai
-- **Telegram**: @polygonpay
-
 ---
 
 **Built with ❤️ for Dubai's Web3 revolution**
